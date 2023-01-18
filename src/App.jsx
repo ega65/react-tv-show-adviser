@@ -64,7 +64,7 @@ export function App() {
             <div>
               <Logo
                 image={logo}
-                title="WatoWatch EGA"
+                title="WatoWatch"
                 subtitle="Find a show you may like..."
               />
             </div>

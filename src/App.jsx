@@ -32,6 +32,7 @@ export function App() {
   }
 
   useEffect(() => {
+    console.log("fetchPopular");
     fetchPopulars();
   }, []);
 
